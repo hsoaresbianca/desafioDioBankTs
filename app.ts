@@ -21,7 +21,7 @@ import { PlusTenAccount } from './class/PlusTenAccount'
 
 
 // EXECUTANDO PLUS TEN ACCOUNT:
-const plusTenAccount: PlusTenAccount = new PlusTenAccount('Mary', 27)
+const plusTenAccount: PlusTenAccount = new PlusTenAccount('Mary', 3)
 plusTenAccount.getBalance()
 plusTenAccount.deposit(100)
 plusTenAccount.getBalance()
