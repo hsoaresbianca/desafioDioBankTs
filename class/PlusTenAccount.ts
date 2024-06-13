@@ -8,7 +8,7 @@ export class PlusTenAccount extends DioAccount {
 
     deposit = (valor: number) => {
         if (this.getStatus() === true) {
-            this.balance =+ (valor + 10);
+            this.setBalance((this.getBalance() + (valor + 10)));
             console.log(`Você depositou ${valor + 10} reais.`)
         }
     }
