@@ -8,9 +8,9 @@ desenvolvido por [Nathally Souza](https://github.com/nathsouzadev)
 
 ### Como rodar o projeto
 
-1 - Clone o repositório
+1 - Clone o repositório [ORIGINAL](https://github.com/digitalinnovationone/desafio01-ts)
 
-2 - Instale as dependeências
+2 - Instale as dependências
     
     npm install
 
